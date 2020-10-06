@@ -1,9 +1,9 @@
 # Optical_TRx
 
 <img src="https://yt3.ggpht.com/a-/AN66SAwrqGtgHzPZtySp4wpNC7Fk7sFLn1ZWx17YSg=s900-mo-c-c0xffffffff-rj-k-no"
+     width=83
      alt="UiT - Arctic University of Norway"
-     style="float: right; margin-right: 10px;" />
-
+     style="float: right; margin-right: 0px; margin-top: 25px" />
 
 <pre>
 Purpose:        Code for Bachelors project<br>
@@ -11,6 +11,7 @@ Author(s):      Strand, Aslak J.
                 Wæringsaasen, Sindre<br>
 Affiliation:    UiT Narvik
 </pre>
+
 
 <br>
 Simple transmitter &amp; receiver code for use with RPi and an optical communication device.
