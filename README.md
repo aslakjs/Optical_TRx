@@ -6,7 +6,7 @@
      style="float: right; margin-right: 0px; margin-top: 25px" />
 
 <pre>
-Purpose:        Code for Bachelors project<br>
+Purpose:        Bachelors project<br>
 Author(s):      Strand, Aslak J.
                 Wæringsaasen, Sindre<br>
 Affiliation:    UiT Narvik
